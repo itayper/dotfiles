@@ -9,7 +9,7 @@ I use [Dotbot](https://github.com/anishathalye/dotbot).
 Clone to `~/.dotfiles`
 
 ```sh
-git clone https://github.com/noamokman/dotfiles.git ~/.dotfiles
+git clone https://github.com/itayper/dotfiles.git ~/.dotfiles
 ```
 
 Run the install script
@@ -22,7 +22,7 @@ cd ~/.dotfiles
 One liner:
 
 ```sh
-git clone https://github.com/noamokman/dotfiles.git ~/.dotfiles && cd ~/.dotfiles && ./install
+git clone https://github.com/itayper/dotfiles.git ~/.dotfiles && cd ~/.dotfiles && ./install
 ```
 
 ### Prerequisites
